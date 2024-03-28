@@ -1,8 +1,0 @@
-C:\Users\Emre\Desktop\c#\KutuphaneConsole\KutuphaneConsole\bin\Debug\KutuphaneConsole.exe.config
-C:\Users\Emre\Desktop\c#\KutuphaneConsole\KutuphaneConsole\bin\Debug\KutuphaneConsole.exe
-C:\Users\Emre\Desktop\c#\KutuphaneConsole\KutuphaneConsole\bin\Debug\KutuphaneConsole.pdb
-C:\Users\Emre\Desktop\c#\KutuphaneConsole\KutuphaneConsole\obj\Debug\KutuphaneConsole.csproj.AssemblyReference.cache
-C:\Users\Emre\Desktop\c#\KutuphaneConsole\KutuphaneConsole\obj\Debug\KutuphaneConsole.csproj.SuggestedBindingRedirects.cache
-C:\Users\Emre\Desktop\c#\KutuphaneConsole\KutuphaneConsole\obj\Debug\KutuphaneConsole.csproj.CoreCompileInputs.cache
-C:\Users\Emre\Desktop\c#\KutuphaneConsole\KutuphaneConsole\obj\Debug\KutuphaneConsole.exe
-C:\Users\Emre\Desktop\c#\KutuphaneConsole\KutuphaneConsole\obj\Debug\KutuphaneConsole.pdb
