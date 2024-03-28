@@ -1,0 +1,12 @@
+Başlık: emre
+Yazar: emre
+ISBN: 123
+Mevcut Kopya Sayısı: 210
+Ödünç Alınan Tarih: 15.03.2024
+
+Başlık: emre
+Yazar: emre
+ISBN: 123
+Mevcut Kopya Sayısı: 210
+Ödünç Alınan Tarih: 28.03.2024
+
